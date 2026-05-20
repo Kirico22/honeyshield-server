@@ -2,3 +2,4 @@ node_modules/
 .env
 licenses.json
 *.log
+.env.example
